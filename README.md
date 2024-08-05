@@ -28,7 +28,7 @@ I am passionate about leveraging technology to solve real-world problems. My bac
 
 **Technologies Used:** Python, OpenCV, TensorFlow
 
-**Presentation + Info:** [Medical Image Computing](https://github.com/usuallyleo/portfolio/tree/main/Medical Image Computing)
+**Python Notebooks:** [Medical Image Computing](https://github.com/usuallyleo/portfolio/tree/main/Medical%20Image%20Computing)
 
 ### VR-Operating Room Etiquette
 
@@ -36,7 +36,7 @@ I am passionate about leveraging technology to solve real-world problems. My bac
 
 **Technologies Used:** Unity, C#
 
-**Presentation + Info:** [VR-Operating Room Etiquette](https://github.com/usuallyleo/portfolio/tree/main/VR-Operating Room Etiquette)
+**Presentation + Info:** [VR-Operating Room Etiquette](https://github.com/usuallyleo/portfolio/tree/main/VR-Operating%20Room%20Etiquette)
 
 ### AR-APP
 
@@ -44,7 +44,7 @@ I am passionate about leveraging technology to solve real-world problems. My bac
 
 **Technologies Used:** Unity, C#
 
-**Repository:** [AR-APP](https://github.com/usuallyleo/portfolio/tree/main/AR-APP)
+**Presentation + Info:** [AR-APP](https://github.com/usuallyleo/portfolio/tree/main/AR-APP)
 
 ### Object Detection + Android App
 
@@ -52,7 +52,7 @@ I am passionate about leveraging technology to solve real-world problems. My bac
 
 **Technologies Used:** Android Studio, TensorFlow, Faster R-CNN, Visual Studio
 
-**Presentation + Info:** [Object Detection + App](https://github.com/usuallyleo/portfolio/tree/main/Object Detection + App)
+**Presentation + Info:** [Object Detection + App](https://github.com/usuallyleo/portfolio/tree/main/Object%20Detection%20%2B%20App)
 
 ## About Me
 
