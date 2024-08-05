@@ -1,7 +1,5 @@
-# portfolio
-Coding Portfolio
 
-# Leo's Portfolio
+# Leo's coding Portfolio
 
 Hi, I'm Leo, a versatile engineer with a bachelor's degree in Mechanical Engineering and a master's degree in Medical Technologies. During my master's, I focused on software development, working with technologies like computer vision, virtual and augmented reality, and mobile app development. Since some projects are still worked on, full repositories are private and not accessible. This portfolio repository provides folders with presentations and deeper insights to get an overview.
 Welcome to my portfolio repository.
@@ -53,6 +51,7 @@ I am passionate about leveraging technology to solve real-world problems. My bac
 **Technologies Used:** Android Studio, TensorFlow, Faster R-CNN, Visual Studio
 
 **Presentation + Info:** [Object Detection + App](https://github.com/usuallyleo/portfolio/tree/main/Object%20Detection%20%2B%20App)
+**Android App Video Demo:** [Video Demo](https://youtu.be/tIKaqCJhYwI)
 
 ## About Me
 
