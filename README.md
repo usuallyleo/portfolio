@@ -55,7 +55,7 @@ I am passionate about leveraging technology to solve real-world problems. My bac
 
 ## About Me
 
-I have a strong foundation in mechanical engineering with a specialization in medical technologies. My passion for software development has led me to explore various fields, including computer vision, VR/AR development, and mobile app development. I am proficient in using development environments such as Android Studio and Visual Studio.
+I have a strong foundation in mechanical engineering with a specialization in medical technologies. My passion for software development has led me to explore various fields, including computer vision, VR/AR development, and mobile app development. I am proficient in using differend IDEs such as Android Studio, Anaconda and Visual Studio.
 
 ## Contact
 
