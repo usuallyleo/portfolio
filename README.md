@@ -28,7 +28,7 @@ I am passionate about leveraging technology to solve real-world problems. My bac
 
 **Technologies Used:** Python, OpenCV, TensorFlow
 
-**Repository:** [Medical Image Computing](link_to_medical_image_computing_repository)
+**Presentation + Info:** [Medical Image Computing](https://github.com/usuallyleo/portfolio/tree/main/Medical Image Computing)
 
 ### VR-Operating Room Etiquette
 
@@ -36,7 +36,7 @@ I am passionate about leveraging technology to solve real-world problems. My bac
 
 **Technologies Used:** Unity, C#
 
-**Repository:** [VR-Operating Room Etiquette]
+**Presentation + Info:** [VR-Operating Room Etiquette](https://github.com/usuallyleo/portfolio/tree/main/VR-Operating Room Etiquette)
 
 ### AR-APP
 
@@ -44,15 +44,15 @@ I am passionate about leveraging technology to solve real-world problems. My bac
 
 **Technologies Used:** Unity, C#
 
-**Repository:** [AR-APP]
+**Repository:** [AR-APP](https://github.com/usuallyleo/portfolio/tree/main/AR-APP)
 
-### Object Detection + App
+### Object Detection + Android App
 
 **Description:** Built an Android application using TensorFlow Object Detection API and Faster R-CNN networks to identify and classify fresh fruits and vegetables as a shopping guide for the visual impaired.
 
 **Technologies Used:** Android Studio, TensorFlow, Faster R-CNN, Visual Studio
 
-**Repository:** [Object Detection + App]
+**Presentation + Info:** [Object Detection + App](https://github.com/usuallyleo/portfolio/tree/main/Object Detection + App)
 
 ## About Me
 
@@ -61,7 +61,7 @@ I have a strong foundation in mechanical engineering with a specialization in me
 ## Contact
 
 - **Email:** [wagnerleonhard@gmx.de](mailto:wagnerleonhard@gmx.de)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/leonhard-wagner-9b53a91a2/?trk=opento_sprofile_goalscard)
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/leonhard-wagner-9b53a91a2/?trk=opento_sprofile_goalscard)
 
 Thank you for visiting my portfolio! Feel free to explore my projects and reach out if you have any questions or collaboration ideas.
 
